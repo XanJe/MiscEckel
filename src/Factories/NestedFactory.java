@@ -26,5 +26,9 @@ class A implements I{
     };
     public void method(){
         System.out.println("method 1");
+<<<<<<< HEAD
+=======
+
+>>>>>>> b3caefea7c8671301586c96c9528b7568911dfa5
     }
 }
